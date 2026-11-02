@@ -4,8 +4,6 @@
 
 Retinal wave calcium-imaging analysis.
 
-Desktop app that replaces `Yonehara_video_rotator.ipynb`, the FIJI **Multi Measure** step and
-`Yonehara_wave_analysis.ipynb`.
 
 Rotation to anatomical coordinates, grid measurement, event detection, wavefront tracking (frequency,
 speed, duration, direction), single-cell analysis with Suite2p / Cellpose and group statistics, in one
